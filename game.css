@@ -1,0 +1,20 @@
+body{
+    background-color: aquamarine;
+}
+.que{
+    width:80%;
+    height: 350px;
+    background-color:rgb(141, 255, 255);
+    border-radius:20px 20px 20px 20px;
+    font-family: 'Skranji', cursive;
+}
+#area{
+    width: 30%;
+}
+.scr{
+    width:80%;
+    height: 150px;
+    background-color:rgb(141, 255, 255);
+    border-radius:20px 20px 20px 20px;
+    font-family: 'Skranji', cursive;
+}

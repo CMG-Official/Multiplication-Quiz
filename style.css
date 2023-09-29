@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+.contn{
+    width:80%;
+    background-image: url("OIP.jpeg");
+    height: 350px;
+    border-radius:20px 20px 20px 20px;
+    font-family: 'Skranji', cursive;
+}
+.copyright_footer{
+    bottom: 0;
+    position: fixed;
+    width:100%;
+    background-color: wheat;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Skranji', cursive;
+}
+.titl{
+    font-family: 'Skranji', cursive;
+}
+#eas , #med , #har{
+    font-size: 20px;
+}
